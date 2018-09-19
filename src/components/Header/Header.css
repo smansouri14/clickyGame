@@ -1,0 +1,24 @@
+.header {
+    background: #443d3d;
+    margin-bottom: 40px;
+    height: 200px;
+    width: 100vw;
+    padding-top: 2%;
+  }
+  
+  .header h1 {
+    margin: 0;
+    margin-top: 5px;
+    padding-bottom: 40px;
+    text-align: center;
+    color: white;
+    font-size: 3rem;
+  }
+  .header h2 {
+    margin: 0;
+    /* padding-top: 75px; */
+    text-align: center;
+    color: white;
+    font-size: 2rem;
+  }
+  

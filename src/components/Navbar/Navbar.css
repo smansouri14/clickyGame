@@ -1,0 +1,29 @@
+.navbar {
+    height: 60px;
+    width: 100%;
+    margin: 0%;
+    padding: 2%;
+    background: #b30000 !important;  
+    text-align: center !important;
+  }
+  
+  .navbar a {
+    color: white;
+    font-size: 34px !important;
+    text-decoration: none;
+  }
+
+  a {
+    color: white !important;
+  }
+
+  .nav-left{
+    margin-left: 150px !important;
+  }
+
+  .nav-right{
+    margin-right: 150px !important;
+  }
+
+  
+
