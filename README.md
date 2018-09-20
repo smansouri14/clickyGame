@@ -1,8 +1,8 @@
-#Clicky Game
-##Overview
-####In this project, I created a simple memory game with React. The goal here was to break up the application's UI into components, manage component state, and respond to user events.
+# Clicky Game
+## Overview
+#### In this project, I created a simple memory game with React. The goal here was to break up the application's UI into components, manage component state, and respond to user events.
 
-##Instructions
+## Instructions
 * The application renders a dozen different Arsenal player images to the screen.
 
 * Each time the user clicks on an image, the pictures are shuffled. The task for the user is to click on each image once and only once.
@@ -13,7 +13,7 @@
 
 * The application keeps track of the users Best Score, and updates it when the user achieves a new Best Score.
 
-##Technologies Leveraged
+## Technologies Leveraged
 * HTML
 * CSS
 * JavaScript
